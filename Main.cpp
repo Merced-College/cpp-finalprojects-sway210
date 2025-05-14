@@ -1,3 +1,10 @@
+//Jose Arellano
+//5/13/25
+//Final project
+
+
+
+
 #include <iostream>
 #include <cstdlib> //For Rand(), combat algorthm
 #include <ctime> //for time()
