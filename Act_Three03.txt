@@ -8,7 +8,7 @@ Claire: “Not anymore.”
 
 Razor’s voice cut through the rain. “Traitors! Kill them!”
 
-Guns roared. Razor’s men surged forward, but Apser was a wall—disarming one, slamming another into the mud. Tom’s shots cracked through the mist, forcing them back.
+Guns roared. Razor’s men surged forward, but Asper was a wall—disarming one, slamming another into the mud. Tom’s shots cracked through the mist, forcing them back.
 
 Elias moved like a ghost, cutting through the chaos. He reached Razor—his blade slicing through the gang leader’s cybernetic arm.
 
@@ -30,4 +30,4 @@ Tom: “You can’t undo what you’ve done. But you can stop.”
 
 Elias looked at the knife, then at them. “Maybe… maybe there’s still a way back.”
 
-<<PAUSE>>
+<<PAUSE>> apse

@@ -17,7 +17,7 @@ If the player helped Razor:
 - Tom: "We chose survival over justice. We protected killers, and now we have to live with that."
 
 If the player betrayed Razor:
-- Apser: "We tried to play both sides. In this city, you can’t be both hero and monster."
+- Asper: "We tried to play both sides. In this city, you can’t be both hero and monster."
 
 Nebcity’s rain washed the blood from the streets, but it could not wash away the shadows.
 
