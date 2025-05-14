@@ -1,0 +1,32 @@
+
+--- Epilogue: Nebcity’s Shadows ---
+
+The rain fell heavier now, drowning the neon lights in silver streaks. Nebcity stretched out in the darkness, a city of sharp edges and hidden wounds.
+
+Claire stood under the flickering streetlamp, her coat soaked through, watching the rain carve rivers through the alleys. Tom and Apser stood beside her — silent, like shadows.
+
+Elias was gone. Whether he was arrested, saved, or killed — his story was over. But the scars he left behind remained.
+
+If the player convinced Elias to surrender:
+- Claire: "He was just a man. Broken, but not a monster. But will the city remember that?"
+
+If the player fought and killed Elias:
+- Claire: "In the end, we became part of the darkness. We stopped him… but did we save anyone?"
+
+If the player helped Razor:
+- Tom: "We chose survival over justice. We protected killers, and now we have to live with that."
+
+If the player betrayed Razor:
+- Apser: "We tried to play both sides. In this city, you can’t be both hero and monster."
+
+Nebcity’s rain washed the blood from the streets, but it could not wash away the shadows.
+
+Claire lit a cigarette, the smoke curling around her face.
+
+Claire: "Maybe that’s all we do here — fight shadows with shadows. Maybe we never change anything."
+
+But even as the rain fell, a faint light broke through the clouds, a fragile beam cutting through the darkness.
+
+Tom: "Or maybe… maybe we just have to keep trying."
+
+And in the city of shadows, the three walked away — investigators, hunters, survivors — leaving their footprints in the rain.
