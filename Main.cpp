@@ -5,9 +5,9 @@
 #include <iostream>
 #include <cstdlib> //For Rand(), combat algorthm
 #include <ctime> //for time()
-#include <fstream>
-#include <string>
-#include <vector>
+#include <fstream> // For reading story files
+#include <string> // For handling text (story and dialogue)
+#include <vector> // For storing future cases
 #include <limits> // For numeric_limits
 using namespace std;
 
